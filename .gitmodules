@@ -1,0 +1,6 @@
+[submodule "nvim/nvim"]
+	path = nvim/nvim
+	url = https://github.com/ayamir/nvimdots
+[submodule "nvimdots"]
+	path = nvimdots
+	url = https://github.com/ayamir/nvimdots
