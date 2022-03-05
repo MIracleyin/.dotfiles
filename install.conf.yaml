@@ -5,4 +5,8 @@
         path: alacritty
         create: true
         relink: true
+    ~/.config/nvim:
+        path: nvim
+        create: true
+        relink: true
         
