@@ -1,0 +1,8 @@
+# 2022.3.5 by yin
+
+- link:
+    ~/.config/alacritty:
+        path: alacritty
+        create: true
+        relink: true
+        

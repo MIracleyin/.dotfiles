@@ -4,3 +4,7 @@
 [submodule "nvimdots"]
 	path = nvimdots
 	url = https://github.com/ayamir/nvimdots
+[submodule "dotbot"]
+	path = dotbot
+	url = https://github.com/anishathalye/dotbot
+	ignore = dirty
