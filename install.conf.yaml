@@ -1,6 +1,10 @@
 # 2022.3.5 by yin
 
 - link:
+    ~/.cconfig/kitty:
+        path: kitty
+        create: true
+        relink: true
     ~/.config/alacritty:
         path: alacritty
         create: true
