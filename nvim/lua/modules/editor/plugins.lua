@@ -133,5 +133,10 @@ editor["abecodes/tabout.nvim"] = {
 	after = "nvim-cmp",
 	config = conf.tabout,
 }
+editor["lervag/vimtex"] = {
+	opt = true,
+	config = conf.vimtex,
+	ft = 'tex'
+}
 
 return editor
