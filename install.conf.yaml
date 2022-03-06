@@ -1,6 +1,14 @@
 # 2022.3.5 by yin
 
 - link:
+    ~/.zshrc:
+        path: zshrc
+        create: true
+        relink: true
+    ~/.zim:
+        path: zim
+        create: true
+        relink: true
     ~/.config/kitty:
         path: kitty
         create: true

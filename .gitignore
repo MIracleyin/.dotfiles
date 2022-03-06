@@ -1,3 +1,4 @@
 *.rej
 *.orig
 __pycache__
+zim/modules/*
