@@ -21,4 +21,8 @@
         path: nvim
         create: true
         relink: true
+    ~/.config/fontconfig/fonts.conf:
+        path: fonts
+        create: true
+        relink: true
         
