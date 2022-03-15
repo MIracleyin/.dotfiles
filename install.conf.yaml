@@ -5,8 +5,8 @@
         path: zshrc
         create: true
         relink: true
-    ~/.zim:
-        path: zim
+    ~/.zimrc:
+        path: zimrc
         create: true
         relink: true
     ~/.config/kitty:
