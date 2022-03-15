@@ -8,6 +8,3 @@
 	path = dotbot
 	url = https://github.com/anishathalye/dotbot
 	ignore = dirty
-[submodule "fonts"]
-	path = fonts
-	url = git@github.com:loaden/best-fonts.git
