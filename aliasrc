@@ -1,0 +1,16 @@
+# all my alias
+# 2022.3.5
+
+# proxy
+alias pc="proxychains4"
+
+# zsh
+alias aczsh="source ~/.zshrc"
+alias edzsh="nvim ~/.zshrc"
+
+
+alias cat="bat --theme TwoDark"
+
+# conda
+alias acbase="source /opt/homebrew/Caskroom/miniconda/base/bin/activate base"
+alias acpy="source /opt/homebrew/Caskroom/miniconda/base/bin/activate py10"
