@@ -9,6 +9,8 @@
         path: zimrc
         create: true
         relink: true
+    ~/.aliasrc:
+        path: aliasrc
     ~/.config/kitty:
         path: kitty
         create: true
