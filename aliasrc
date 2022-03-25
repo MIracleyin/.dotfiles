@@ -12,5 +12,5 @@ alias edzsh="nvim ~/.zshrc"
 alias cat="bat --theme TwoDark"
 
 # conda
-alias acbase="source /opt/homebrew/Caskroom/miniconda/base/bin/activate base"
-alias acpy="source /opt/homebrew/Caskroom/miniconda/base/bin/activate py10"
+alias acbase="source /opt/miniconda/bin/activate base"
+alias acpy="source /opt/miniconda/bin/activate py10"
