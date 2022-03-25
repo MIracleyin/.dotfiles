@@ -9,7 +9,7 @@ alias aczsh="source ~/.zshrc"
 alias edzsh="nvim ~/.zshrc"
 
 
-alias cat="bat --theme TwoDark"
+#alias cat="bat --theme TwoDark"
 
 # conda
 alias acbase="source /opt/miniconda/bin/activate base"
